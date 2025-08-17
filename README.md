@@ -2,7 +2,7 @@
 
 An Apple Watch app designed to for parents to track their baby's wake and nap windows. 
 
-Simple, easy-to-use interface designed for parents. No fuss with finding your phone to track the baby's naps and wake windows. Easily start or stop a nap or wake window right on your watch, even if your 
+Simple, easy-to-use interface designed for parents. Easily start or stop a nap or wake window right on your watch, even if your 
 baby fell asleep on you and you don't know where your phone is.
 Get notifications of elapsed nap and wake window time so you don't have to worry about constantly checking the time and can better plan your activities. 
 
