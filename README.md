@@ -20,7 +20,7 @@ No sign in or account required. All data is stored locally on your watch for pri
 ## Links
 
 - [Support & FAQ](support.md)
-- [Privacy Policy](privacy.md)
+- [Privacy Policy](privacy_policy.md)
 
 ## Contact
 
