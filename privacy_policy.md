@@ -4,7 +4,7 @@
 
 ## Overview
 
-NapNurture ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our Apple Watch application handles information.
+Nurture Nap ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our Apple Watch application handles information.
 
 ## Information Collection and Use
 
@@ -12,14 +12,14 @@ NapNurture ("we," "our," or "us") is committed to protecting your privacy. This 
 
 ### Local Data Storage
 
-- All data entered in NapNurture (such as nap times, wake windows, and sleep tracking information) is stored locally on your Apple Watch only
+- All data entered in Nurture Nap (such as nap times, wake windows, and sleep tracking information) is stored locally on your Apple Watch only
 - This data never leaves your device
 - We have no access to any information you enter in the app
 - No data is transmitted to our servers or any third-party services
 
 ### No Account Required
 
-- NapNurture does not require you to create an account
+- Nurture Nap does not require you to create an account
 - No personal information such as name, email, or phone number is collected
 - No login credentials are stored
 
@@ -32,13 +32,9 @@ Since all data remains on your Apple Watch:
 
 ## Third-Party Services
 
-- NapNurture does not integrate with any third-party services
+- Nurture Nap does not integrate with any third-party services
 - No analytics or tracking services are used
 - No advertising networks have access to any information
-
-## Children's Privacy
-
-NapNurture is designed to help parents track their baby's sleep patterns. While the app may contain information about children, we do not knowingly collect any information from children or about children beyond what is stored locally on the user's device.
 
 ## Changes to This Privacy Policy
 
