@@ -1,4 +1,7 @@
-# NapNurture Support
+---
+layout: default
+title: Support
+---
 
 ## About NapNurture
 
