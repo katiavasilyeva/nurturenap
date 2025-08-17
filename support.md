@@ -3,6 +3,8 @@ layout: default
 title: Support
 ---
 
+# NapNurture Support
+
 ## About NapNurture
 
 NapNurture is an Apple Watch app designed to help parents track their baby's wake and nap windows. The app runs entirely on your Apple Watch and helps you monitor your baby's sleep patterns throughout the day.
